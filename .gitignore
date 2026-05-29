@@ -2,7 +2,6 @@
 *.py[cod]
 *$py.class
 .env
-
 logs/
 images_cache/
 bot.log
